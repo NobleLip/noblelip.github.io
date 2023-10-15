@@ -6,6 +6,9 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Click me](./another-page.html){: .btn}
 
+[<kbd> <br> Title <br> </kbd>][Link]
+[Link]: # 'Link with example title.'
+
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
