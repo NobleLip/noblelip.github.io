@@ -4,7 +4,6 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-{% include button.html url="./another-page.html" %}
 [Click me](./another-page.html){: .btn}
 
 There should be whitespace between paragraphs.
