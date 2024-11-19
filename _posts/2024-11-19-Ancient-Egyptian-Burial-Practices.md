@@ -7,7 +7,7 @@ tags: [Tests]
 render_with_liquid: false
 comments: true
 image:
-path: /assets/transferir4.jpg
+    path: /assets/transferir4.jpg
 ---
 
    

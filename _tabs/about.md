@@ -10,8 +10,7 @@ Hey, at the moment I'm working in Altice Labs (Aveiro) as a DevOps engineer, doi
 ## Languages 
 
 ```mermaid
-pie
-    title knowladge
+ pie title Knowladge
     "Python" : 386
     "Javascript" : 85
     "C" : 150 
