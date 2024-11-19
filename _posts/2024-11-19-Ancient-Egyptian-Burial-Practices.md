@@ -7,12 +7,12 @@ tags: [Tests]
 render_with_liquid: false
 comments: true
 image:
-path: /assets/transferir (4).jpg
+path: /assets/transferir4.jpg
 ---
 
    
 # Ancient Egyptian Burial Practices: Unveiling the Mysteries of the Afterlife
-=============================================================
+
 
 For thousands of years, the ancient Egyptians were known for their elaborate and intricate burial practices, which were designed to ensure the safe passage of the deceased into the afterlife. From the earliest pharaonic dynasties to the Roman period, the Egyptians continued to refine and modify their burial rituals, incorporating new beliefs and technologies to ensure the eternal life of the pharaohs and the noble classes.
 
