@@ -4,5 +4,15 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hey, at the moment I'm working in Altice Labs (Aveiro) as a DevOps engineer, doing my best to make my knowladge about the world of programming as wide as possible to accompany this constant jorney of constant new enovations.
+
+## Languages 
+
+```mermaid
+pie
+    title knowladge
+    "Python" : 386
+    "Javascript" : 85
+    "C" : 150 
+    "Assembly" : 200
+```
