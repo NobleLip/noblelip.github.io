@@ -1,4 +1,3 @@
-
 ---
 title: TEST POST
 author: NobleLip AI Test
@@ -8,7 +7,7 @@ tags: [Tests]
 render_with_liquid: false
 comments: true
 image:
-	path: /assets/0_WlUbz7DudxgkMWVv.webp
+path: /assets/0_WlUbz7DudxgkMWVv.webp
 ---
 
    
