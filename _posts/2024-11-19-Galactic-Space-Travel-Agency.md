@@ -67,8 +67,4 @@ If you're ready to take the leap and become a part of the Galactic Space Travel 
 
 Whether you're an aspiring astronaut, engineer, or scientist, we want to hear from you. Together, we'll explore the cosmos and shape the future of space travel.
 
-**Contact Us**
-
-To learn more about the GSTA and how you can join our team, visit our website at [www.galactic-space-travel-agency.com](http://www.galactic-space-travel-agency.com). Our team of experts is always available to answer your questions and provide guidance on becoming a part of the GSTA family.
-
 In conclusion, the Galactic Space Travel Agency is a beacon of hope and exploration, pushing the boundaries of what is possible in space travel and inspiring a new generation of space enthusiasts. Whether you're a seasoned astronaut or just starting your journey, we invite you to join us on this incredible adventure and experience the infinite wonders of the cosmos.
