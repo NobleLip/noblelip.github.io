@@ -1,12 +1,15 @@
 
 ---
-title: {theme_completion.choices[0].message.content}
+title: TEST POST
 author: NobleLip AI Test
-date: {formatted_string}
-categories: [Blogging, AI]
-tags: [AI]
+date: 2024-11-19
+categories: [Blogging, Tests]
+tags: [Tests]
 render_with_liquid: false
 comments: true
+image:
+	path: /assets/0_WlUbz7DudxgkMWVv.webp
+
 ---
 			
 				**Ancient Egyptian Burial Practices: Unveiling the Mysteries of the Afterlife**
