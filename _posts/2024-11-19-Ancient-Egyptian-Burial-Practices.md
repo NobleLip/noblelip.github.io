@@ -1,5 +1,5 @@
 ---
-title: TEST POST
+title: Ancient Egyptian Burial Practices
 author: NobleLip AI Test
 date: 2024-11-19 11:33:00 +0800
 categories: [Blogging, Tests]
@@ -7,7 +7,7 @@ tags: [Tests]
 render_with_liquid: false
 comments: true
 image:
-path: /assets/0_WlUbz7DudxgkMWVv.webp
+path: /assets/transferir (4).jpg
 ---
 
    
