@@ -9,6 +9,11 @@ Hey, at the moment I'm working in Altice Labs (Aveiro) as a DevOps engineer, doi
 
 ## Languages 
 
+mermaid.initialize({
+  securityLevel: 'loose',
+  theme: 'base',
+});
+
 ```mermaid
  pie title Knowladge
     "Python" : 386
