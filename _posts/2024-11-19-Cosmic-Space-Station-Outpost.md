@@ -64,12 +64,6 @@ In the near future, we can expect to see the development of smaller, more tempor
 
 A cosmic space station outpost is a crucial component of humanity's future in space, providing a platform for scientific research, space tourism, commerce, and communication. While it poses significant challenges, the benefits of such an outpost are numerous and far-reaching. As we move forward in the 21st century, it is essential that we continue to invest in space research and exploration, and work towards building a sustainable and permanent presence in space.
 
-### References
-
-* NASA's Orion Spacecraft: [www.nasa.gov/orion](http://www.nasa.gov/orion)
-* SpaceX's Starship Program: [www.spacex.com/starship](http://www.spacex.com/starship)
-* Blue Origin's Blue Moon Program: [www.blueorigin.com/blue-moon](http://www.blueorigin.com/blue-moon)
-* European Space Agency's Cosmic Space Station Outpost: [www.esa.int/cosmic_space_station_outpost](http://www.esa.int/cosmic_space_station_outpost)
 
 ### Further Reading
 
