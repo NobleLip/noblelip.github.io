@@ -32,5 +32,5 @@ mermaid: true
 - Step 2: Do 3 to 6 sets a week, either once (3) or twice (6) a week. Rep ranges: 6-10, 8-12. AS LONG AS YOU CAN KEEP ADDING ON WEIGHT, STICK TO THESE TWO STEPS.
 
 <p align="center">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN205dnV5NDVocHc4anZ0b3dxbGZ1YWc5amNmdW9mZ2V0cjFwMzV4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0owap7cyOBVZO45ZNO/giphy.webp">
+    <img alt="Just Do It I Guess" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN205dnV5NDVocHc4anZ0b3dxbGZ1YWc5amNmdW9mZ2V0cjFwMzV4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0owap7cyOBVZO45ZNO/giphy.webp">
 p>
