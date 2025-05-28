@@ -7,64 +7,78 @@ mermaid: true
 
 # Gym 
 
-## Day 1 - Back & Biceps
+# 💪 4-Day Bulking Workout Plan (Hybrid Push/Pull/Upper/Lower)
 
-| Exercise                           | Sets      | Reps   | 
-|------------------------------------|-----------|--------|
-| Deadlift                           | 2         | 5      |
-| One Arm Dumbbell Row               | 3         | 8-12   |
-| Wide Grip Pull Up or Lat Pull Down | 3         | 10-12  |
-| Barbell Row                        | 3         | 8-12   |
-| Seated Cable Row or Machine Row    | 5 Minutes | Burn   |
-| EZ Bar Preacher Curl               | 3         | 10-12  |
-| Concentration Curl                 | 3         | 10-12  |
-| Seated Dumbbell Curl               | 5 Minutes | Burn   |
+## 📅 Weekly Split
 
-## Day 2 - Chest & Triceps
+| Day       | Focus                                   |
+|-----------|------------------------------------------|
+| **Day 1** | Upper Body Strength (Push + Pull Compound) |
+| **Day 2** | Lower Body (Quads, Hamstrings, Glutes, Calves) |
+| **Day 3** | Push Hypertrophy (Chest, Shoulders, Triceps) |
+| **Day 4** | Pull Hypertrophy (Back, Biceps, Rear Delts) |
 
-| Exercise                                 | Sets      | Reps  |
-|------------------------------------------|-----------|-------|
-| Bench Press                              | 3         | 6-10  |
-| Incline Dumbbell Bench Press             | 3         | 8-12  |
-| Chest Dip                                | 3         | AMRAP |
-| Cable Crossover or Pec Dec               | 3         | 12-15 |
-| Machine Press or Dumbbell Bench Press    | 5 Minutes | Burn  |
-| EZ Bar Skullcrusher                      | 3         | 8-12  |
-| Two Arm Seated Dumbbell Extension        | 3         | 8-12  |
-| Cable Tricep Extension                   | 5 Minutes | Burn  |
-| Notes: AMRAP = As many reps as possible. |           |       |
+---
 
-## Day 4 - Quads, Hamstrings, and Calves
+## 🧱 Day 1: Upper Strength
 
-| Exercise                     | Sets      | Reps  |
-|------------------------------|-----------|-------|
-| Squat                        | 3         | 6-10  |
-| Leg Press                    | 3         | 15-20 |
-| Hack Squat or Dumbbell Lunge | 3         | 8-12  |
-| Leg Extension                | 5 Minutes | Burn  |
-| Stiff Leg Deadlift           | 3         | 8-12  |
-| Leg Curl                     | 5 Minutes | Burn  |
-| Standing Calf Raise          | 3         | 10-15 |
-| Seated Calf Raise            | 5 Minutes | Burn  |
+| Exercise                 | Sets x Reps | Link |
+|--------------------------|-------------|------|
+| Barbell Bench Press      | 4x5-6       | [How to](https://exrx.net/WeightExercises/PectoralSternal/BBBenchPress) |
+| Pull-Ups                 | 4x6-8       | [How to](https://exrx.net/WeightExercises/LatissimusDorsi/BWPullup) |
+| Barbell Overhead Press   | 4x6         | [How to](https://exrx.net/WeightExercises/DeltoidAnterior/BBShoulderPress) |
+| Barbell Rows             | 3x8         | [How to](https://exrx.net/WeightExercises/BackGeneral/BBBentOverRow) |
+| Skull Crushers           | 3x10        | [How to](https://exrx.net/WeightExercises/Triceps/BBSkullCrusher) |
 
-##  Day 5 - Shoulders, Traps, and Forearms
+---
 
-| Exercise                             | Sets      | Reps  |
-|--------------------------------------|-----------|-------|
-| Seated Barbell Press                 | 3         | 6-10  |
-| Seated Arnold Press                  | 3         | 8-12  |
-| Dumbbell Lateral Raise               | 3         | 10-15 |
-| Hammer Strength Press or Smith Press | 5 Minutes | Burn  |
-| Upright Row                          | 3         | 8-12  |
-| Barbell Shrug or Dumbbell Shrug      | 5 Minutes | Burn  |
-| Seated Barbell Wrist Curl            | 3         | 12-15 |
-| Barbell Static Hold                  | 5 Minutes | Burn  |
+## 🦵 Day 2: Lower Body
 
+| Exercise                 | Sets x Reps | Link |
+|--------------------------|-------------|------|
+| Squats                   | 4x6-8       | [How to](https://exrx.net/WeightExercises/Quadriceps/BBSquat) |
+| Romanian Deadlifts       | 3x10        | [How to](https://exrx.net/WeightExercises/Hamstrings/BBRomanianDeadlift) |
+| Leg Press                | 3x12        | [How to](https://exrx.net/WeightExercises/Quadriceps/LVLegPress) |
+| Walking Lunges           | 2x20 steps  | [How to](https://exrx.net/WeightExercises/Quadriceps/DBLunge) |
+| Standing Calf Raises     | 3x15-20     | [How to](https://exrx.net/WeightExercises/Gastrocnemius/BWStandingCalfRaise) |
 
-# Full Step-by-Step MASSterplan for Big Arms
-## Novice Stage
-- Step 1: Pick ONE movement for the biceps and ONE movement for the long head of the triceps. You can also pick. ONE movement for the lateral head of the triceps, although these get worked by presses. Select movements that you. ENJOY and can do without discomfort.
-- Step 2: Do 3 to 6 sets a week, either once (3) or twice (6) a week. Rep ranges: 6-10, 8-12. AS LONG AS YOU CAN KEEP ADDING ON WEIGHT, STICK TO THESE TWO STEPS.
+---
+
+## 💥 Day 3: Push Hypertrophy
+
+| Exercise                 | Sets x Reps | Link |
+|--------------------------|-------------|------|
+| Incline Dumbbell Press   | 4x8-10      | [How to](https://exrx.net/WeightExercises/PectoralClavicular/DBInclineBenchPress) |
+| Dumbbell Shoulder Press  | 3x10-12     | [How to](https://exrx.net/WeightExercises/DeltoidAnterior/DBShoulderPress) |
+| Cable Chest Flys         | 3x12-15     | [How to](https://exrx.net/WeightExercises/PectoralSternal/CBCrossover) |
+| Lateral Raises           | 3x15        | [How to](https://exrx.net/WeightExercises/DeltoidLateral/DBLateralRaise) |
+| Triceps Rope Pushdown    | 3x15        | [How to](https://exrx.net/WeightExercises/Triceps/CBPushdownRope) |
+
+---
+
+## 💪 Day 4: Pull Hypertrophy
+
+| Exercise                 | Sets x Reps | Link |
+|--------------------------|-------------|------|
+| Lat Pulldowns            | 4x10-12     | [How to](https://exrx.net/WeightExercises/LatissimusDorsi/CBFrontPulldown) |
+| Dumbbell Rows            | 3x10        | [How to](https://exrx.net/WeightExercises/BackGeneral/DBBentOverRow) |
+| Face Pulls               | 3x15        | [How to](https://exrx.net/WeightExercises/DeltoidPosterior/CBFacePull) |
+| Barbell or EZ Curls      | 3x12        | [How to](https://exrx.net/WeightExercises/Biceps/BBBicepsCurl) |
+| Rope Hammer Curls        | 3x12        | [How to](https://exrx.net/WeightExercises/Biceps/CBHammerCurlRope) |
+
+---
+
+## 🧠 Tips for Bulking Success
+
+- **Progressive Overload**: Increase weight or reps weekly.
+- **Rest Between Sets**: 60–90 sec for hypertrophy; 2–3 min for compounds.
+- **Caloric Surplus**: Eat 10–15% above maintenance.
+- **Protein Intake**: 1g per pound of body weight.
+- **Sleep**: 7–9 hours per night for optimal recovery.
+
+---
+
+*Want this in a PDF, Notion template, or Google Sheets tracker? Just ask!*
 
 <p>
     <img alt="Just Do It I Guess" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN205dnV5NDVocHc4anZ0b3dxbGZ1YWc5amNmdW9mZ2V0cjFwMzV4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0owap7cyOBVZO45ZNO/giphy.webp">
