@@ -18,7 +18,7 @@ mermaid: true
 | **Day 3** | Shoulders |
 | **Day 4** | Chest  |
 | **Day 5** | Legs |
----
+
 
 ## Day 1 - Bicep & Tricep
 
