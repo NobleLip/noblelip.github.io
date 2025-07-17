@@ -30,7 +30,7 @@ mermaid: true
 | Tricep individual Corda            | 4         | 6-12   | 5-15kg     |
 | Tricep corda por cima da cabeça    | 4         | 6-12   | 15-30kg    |
 | Tricep Deitado overhead            | 4         | 6-12   | 10-30kg    |
----
+
 
 ## Day 2 - Back
 
@@ -41,7 +41,7 @@ mermaid: true
 | Pega no peso e levanta tronco      | 4         | 6-12   | 5-15kg     |
 | Puxa maquina                       | 4         | 6-12   | 30-50kg    |
 | Puxa corda queixo                  | 4         | 6-12   | 15-30kg    |
----
+
 
 ## Day 3 - Shoulders
 
@@ -51,7 +51,7 @@ mermaid: true
 | Puxa Barra para frente (baixo para cima sem dobrar braço) | 4         | 6-12   | 15-30 kg   |
 | Maquina de empurrar para cima       | 4         | 6-12   | 50-70kg     |
 | Puxa corda queixo ombros altos      | 4         | 6-12   | 15-30kg    |
----
+
 
 
 ## Day 4 - Peito
@@ -63,7 +63,7 @@ mermaid: true
 | barra banco deitado       | 4         | 6-12   | 20-40kg     |
 | barra banco inclinado baixo      | 4         | 6-12   | 20-40kg    |
 | Abertura peito                | 4             | 6-12 | 30-50kg |
----
+
 
 ## Day 1 - Pernas
 
@@ -75,7 +75,7 @@ mermaid: true
 | Tricep individual Corda            | 4         | 6-12   | 5-15kg     |
 | Tricep corda por cima da cabeça    | 4         | 6-12   | 15-30kg    |
 | Tricep Deitado overhead            | 4         | 6-12   | 10-30kg    |
----
+
 
 ## 🧠 Tips for Bulking Success
 
