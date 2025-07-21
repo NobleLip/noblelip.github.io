@@ -85,7 +85,6 @@ mermaid: true
 - **Protein Intake**: 1g per pound of body weight.
 - **Sleep**: 7–9 hours per night for optimal recovery.
 
----
 
 <p>
     <img alt="Just Do It I Guess" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN205dnV5NDVocHc4anZ0b3dxbGZ1YWc5amNmdW9mZ2V0cjFwMzV4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0owap7cyOBVZO45ZNO/giphy.webp">
