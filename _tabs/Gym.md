@@ -5,8 +5,6 @@ order: 5
 mermaid: true
 ---
 
-# Gym 
-
 # 💪 5-Day Bulking Workout Plan
 
 ## 📅 Weekly Split
@@ -65,16 +63,15 @@ mermaid: true
 | Abertura peito                | 4             | 6-12 | 30-50kg |
 
 
-## Day 1 - Pernas
+## Day 5 - Pernas
 
 | Exercise                           | Sets      | Reps   | Peso Atual |
 |------------------------------------|-----------|--------|------------|
-| Bicep Sentado                      | 4         | 6-12   | 7.5-10 kg  |
-| Bicep Deitado                      | 4         | 6-12   | 7.5-10 kg  |
-| Bicep Barriga para Baixo           | 4         | 6-12   | 7.5-10kg   |
-| Tricep individual Corda            | 4         | 6-12   | 5-15kg     |
-| Tricep corda por cima da cabeça    | 4         | 6-12   | 15-30kg    |
-| Tricep Deitado overhead            | 4         | 6-12   | 10-30kg    |
+| Leg Press                      | 4         | 6-12   | 100-150kg  |
+| Panturrilha                      | 4         | 6-12   | 20-40kg  |
+| Leg extension           | 4         | 6-12   | 30-50kg   |
+| Mesa flexora            | 4         | 6-12   | 5-15kg     |
+| Placa (cotovelos no chão e aguentar tempo)    | 4         | 1   | Max Time    |
 
 
 ## 🧠 Tips for Bulking Success
