@@ -18,6 +18,7 @@ For thousands of years, the ancient Egyptians were known for their elaborate and
 
 In this post, we'll delve into the fascinating world of ancient Egyptian burial practices, exploring the various techniques and rituals that were employed to ensure the safe passage of the deceased into the afterlife. From the early use of tombs to the elaborate funerary temples built to honor the pharaohs, we'll examine the evolution of burial practices in ancient Egypt and the significance of the mummy's role in these rituals.
 
+ 
 **The Early Burial Practices**
 ---------------------------
 
