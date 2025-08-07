@@ -69,4 +69,5 @@ This scraper was created to build a comprehensive, worldwide name database for u
 
 ## Project Repository 
 
-https://github.com/NobleLip/WorldWide-Name-Scraper
+- [WorldWide-Name-Scraper](https://github.com/NobleLip/WorldWide-Name-Scraper)
+
