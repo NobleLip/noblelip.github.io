@@ -10,8 +10,6 @@ image:
     path: /assets/transferir1.png
 ---
 
-## Project Repository : https://github.com/NobleLip/WorldWide-Name-Scraper
-
 
 # 🌍 WorldWide Name Scraper
 
@@ -68,3 +66,7 @@ This scraper was created to build a comprehensive, worldwide name database for u
 
 - [BehindTheName.com](https://www.behindthename.com/)
 - [Surnam.es](https://surnam.es/)
+
+## Project Repository 
+
+https://github.com/NobleLip/WorldWide-Name-Scraper
