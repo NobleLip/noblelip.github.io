@@ -101,4 +101,4 @@ Suggestions, issues, and contributions are welcome!
 
 ## GitHub Project 
 
-- [Home Task Manager]([https://github.com/NobleLip/WorldWide-Name-Scraper](https://github.com/NobleLip/HomeTaskManager))
+- [Home Task Manager](https://github.com/NobleLip/HomeTaskManager)
