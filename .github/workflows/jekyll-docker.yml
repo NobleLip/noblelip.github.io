@@ -34,7 +34,13 @@ jobs:
           # submodules: true
           # If using the 'assets' git submodule from Chirpy Starter, uncomment above
           # (See: https://github.com/cotes2020/chirpy-starter/tree/main/assets)
-
+    
+      - name: Install Bundler
+        run: gem install bundler -v "~> 2.5"
+          
+      - name: Install dependencies
+        run: bundle install
+      
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
@@ -44,12 +50,6 @@ jobs:
         with:
           ruby-version: 3.3.0
           bundler-cache: true
-          
-      - name: Install Bundler
-        run: gem install bundler -v "~> 2.5"
-          
-      - name: Install dependencies
-        run: bundle install
 
       - name: Build site
         run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"
