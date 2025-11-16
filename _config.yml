@@ -1,10 +1,10 @@
 # Site/SEO settings
-email: fil
+email: marcelomail
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-title: Trophy
-description: 
+title: IMarceloRegalado
+description: Tattoing Since 2017
 url: ""
 baseurl: ""
 twitter_username: 
@@ -15,8 +15,7 @@ name:
 profile_img: 
 profile: 
 social:
-  github: 
-  instagram: fil
+  instagram: @imarceloregalado
 
 # Build settings
 markdown: kramdown
